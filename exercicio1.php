@@ -1,3 +1,3 @@
 <?php
 
-  print('teste');
+eaeeeeee seu bostaaaaaaaa
