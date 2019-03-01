@@ -1,3 +1,4 @@
 <?php
 
-  print('teste');
+eaeeeeee seu bostaaaaaaaa
+ aceita ai cuzãoooooooooooooooo
